@@ -257,27 +257,34 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
     - Shows temperature, condition, icon
     - Location name displayed
     - Search bar visible
-
-2. **Home Page - Forecast**
-    - 5-day forecast cards
+    -  - 5-day forecast cards
     - Date, temperature, icons for each day
+<img width="331" height="720" alt="home_page" src="https://github.com/user-attachments/assets/d361ea07-20db-443c-a6ac-c1b76324a893" />
+<img width="300" height="659" alt="search_city" src="https://github.com/user-attachments/assets/8a8c873f-13af-4314-bf81-c1add789ac5f" />
 
-3. **Map Page - Temperature Layer**
+2. **Map Page - Temperature Layer**
     - Color-coded temperature zones
     - Legend on right side
     - Location marker visible
+<img width="335" height="696" alt="temp_layer" src="https://github.com/user-attachments/assets/65e8bb77-231a-4b52-ac33-2d5b12b83e68" />
 
-4. **Map Page - Precipitation Layer**
+3. **Map Page - Precipitation Layer**
     - Rain areas visualized
     - Layer indicator at bottom
+<img width="336" height="691" alt="precipitation_layer" src="https://github.com/user-attachments/assets/78ff0692-0157-4341-8c88-708cfe48c2ea" />
 
-5. **Map Page - Layer Selector**
+
+4. **Map Page - Layer Selector**
     - Bottom sheet with 4 layer options
     - Current layer highlighted
+<img width="336" height="696" alt="selector_layer" src="https://github.com/user-attachments/assets/e01f21f1-d4f7-4575-a3b5-44023f2f74e6" />
+<img width="336" height="707" alt="info_dialog" src="https://github.com/user-attachments/assets/08a57181-0741-49d6-87fd-104771d80e87" />
 
-6. **Marker Bottom Sheet**
+
+5. **Marker Bottom Sheet**
     - Temperature and humidity cards
     - Coordinates displayed
+<img width="334" height="687" alt="bottom_sheet" src="https://github.com/user-attachments/assets/11e8a9b3-bf78-4d53-8303-07fdaff27fdd" />
 
 ---
 
